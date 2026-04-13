@@ -105,7 +105,7 @@ INSIGHTS DE NEGÓCIO
 
 * Nesta clínica a Limpeza de Pele atua como principal porta de entrada, com alta recorrência e forte presença nas combinações de serviços
 * Procedimentos como Botox e Preenchimento representam os principais vetores de monetização
-* Os clientes tendem a consumir múltiplos serviços ao longo do tempo como reposição hormonal e preenchimento, indicando um comportamento de jornada
+* Os clientes tendem a consumir múltiplos serviços ao longo do tempo como preenchimento e reposição hormonal, indicando um comportamento de jornada
 
 ---
 
