@@ -31,7 +31,7 @@ O projeto utiliza dados de atendimentos contendo:
 - Identificação do cliente
 - Realização de procedimentos, suas 'combinações' e otimização da recorrência 
 - Valores cobrados
-- Status do atendimento
+- Status do atendimento realizado
 
 ---
 
