@@ -75,7 +75,7 @@ Bloco 1 — Receita perdida (eficiência operacional) - objetivo: recuperação 
 - Receita já existente não capturada
 
 5. RECOMENDAÇÕES
-- Lembretes automatizados
+- Automatizar tarefas (Lembretes)
 - Confirmação de consultas
 - Lista de espera inteligente
 - Sinal de agendamento
