@@ -37,7 +37,7 @@ O projeto utiliza dados de atendimentos contendo:
 
 CTA:
 
-Se você tem uma clínica, posso analisar seus dados gratuitamente no primeiro contato para identificar perdas de receita e oportunidades de aumento de faturamento já existente na sua base de clientes.
+Se você tem uma clínica ou algum tipo de empreendimento, posso analisar seus dados gratuitamente no primeiro contato para identificar perdas de receita e oportunidades de aumento de faturamento já existente na sua base de clientes.
 
 
 METODOLOGIA
