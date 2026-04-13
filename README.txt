@@ -29,7 +29,7 @@ DATASET
 O projeto utiliza dados de atendimentos contendo:
 
 - Identificação do cliente
-- Procedimento realizado
+- Realização de procedimentos, suas combinações e otimização da recorrência 
 - Valores cobrados
 - Status do atendimento
 
